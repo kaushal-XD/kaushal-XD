@@ -57,18 +57,6 @@ kaushal = {
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/kaushuXD?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
 </div>
-
-<div align="center">
-
-| 🏅 Metric | 📊 Value |
-|-----------|----------|
-| Contest Rating | **1786** |
-| Global Rank | **Top 10%** |
-| Problems Solved | **330+** |
-| Achievement | **1st Place — Versus Coding Challenge** |
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
